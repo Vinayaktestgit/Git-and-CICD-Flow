@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/jdi-light-saber-2.0.39.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/jdi-matchers-2.0.27.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/jdi-matchers-testng-2.0.27.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/jquery-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Work &amp; Doc/Software/TestNG Jar/testng-7.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
