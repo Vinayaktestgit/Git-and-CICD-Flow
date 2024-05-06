@@ -15,4 +15,11 @@ public class TestNG_Basic {
 	{
 		System.out.println("Secound Test Case runin Test NG");
 	}
+	
+	@Test
+	public void Testme()
+	{
+		System.out.println("Hello ALl ");
+		System.out.println(" It's New Test Method in code for git hub");
+	}
 }
